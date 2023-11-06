@@ -1,0 +1,33 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³‰——üÿÿÿÿ8´¨Â±º1
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úñóãÿÿÿÿÿ8´¨Â±º1
+r	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¥²¼ùÿÿÿÿ8´¨Â±º1
+w	java:S116"[Rename this field "TIMEOUT_RISPOSTA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢şôº8Ü Î±º1
+v	java:S116"ZRename this field "TIMEOUT_TAKEOFF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ÷ß“8ß‹Ï±º1
+x	java:S116"\Rename this field "TEMPO_TRA_COMANDI" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕĞªŞ8ß‹Ï±º1
+t	java:S116"SRename this field "TELLO_IP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÀÉÔıÿÿÿÿ8¶¨Â±º1
+q	java:S116"URename this field "TELLO_PORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°İàæ8‚®Ô±º1
+|
+java:S3008"ZRename this field "CONTATORE_PROVE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ–Ø÷øÿÿÿÿ8¶ÙÏ±º1
+N
+java:S3010)",Remove this assignment of "CONTATORE_PROVE".(­å‰Ïıÿÿÿÿ8ºĞ±º1
+W
+java:S2209)"5Change this instance-reference to a static reference.(­å‰Ïıÿÿÿÿ8ºĞ±º1
+L	java:S1067"+Replace this use of System.out by a logger.(Âˆÿ±ùÿÿÿÿ8º¨Â±º1
+L	java:S106:"+Replace this use of System.out by a logger.(ä±¨‹şÿÿÿÿ8º¨Â±º1
+G	java:S106>"+Replace this use of System.err by a logger.(ÜÄÎ8»¨Â±º1
+X	java:S125?"<This block of commented-out lines of code should be removed.(†€éˆ8»¨Â±º1
+N
+java:S1481C"1Remove this unused "clientSocket" local variable.(‡¿Í8»¨Â±º1
+Q
+java:S1068"4Remove this unused "TIMEOUT_RISPOSTA" private field.(¢şôº8â Î±º1
+P
+java:S1068"3Remove this unused "TIMEOUT_TAKEOFF" private field.(µ÷ß“8å‹Ï±º1
+R
+java:S1068"5Remove this unused "TEMPO_TRA_COMANDI" private field.(ÕĞªŞ8å‹Ï±º1
+N
+java:S1068",Remove this unused "TELLO_IP" private field.( ÀÉÔıÿÿÿÿ8¼¨Â±º1
+K
+java:S1068".Remove this unused "TELLO_PORT" private field.(°İàæ8‰®Ô±º1
+L
+java:S1068"*Remove this unused "inVolo" private field.(ó§õ¦ÿÿÿÿÿ8¼¨Â±º1
